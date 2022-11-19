@@ -1,15 +1,8 @@
 <h1 align="center"> Calendário da Copa </h1>
 
-<p align="center">
-Calendario da copa feito na NLW-10
+<p align="center"> 
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 <br>
 
 <p align="center">
@@ -26,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário é um projeto que mostrar os jogos da copa de 2022
+Um Calendário dos jogos da copa de 2022 feito com a nlw-10
 
 ## :memo: Licença
 
