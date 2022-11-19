@@ -34,6 +34,7 @@ header {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    text-align: center;
 }
 
 .card {
@@ -79,7 +80,7 @@ header {
     flex-direction: column;
     gap: 24px;
 
-    width: 270;
+    width: auto;
 }
 
 .card ul li + li {
@@ -124,7 +125,7 @@ header {
 
 @media(min-width: 700px) {
     #cards {
-        max-width: 570;
+        max-width: 1000px;
         flex-direction: row;
         flex-wrap: wrap;
     }

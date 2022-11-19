@@ -21,6 +21,7 @@ function createCard(date, day, games) {
     `
 }
 
+/*Jogos da Copa */
 document.querySelector('#cards').innerHTML = 
             createCard("20/11", "domingo", 
                 createGame('qatar', '13:00', 'ecuador')) +
@@ -37,5 +38,15 @@ document.querySelector('#cards').innerHTML =
                 createGame('morocco', '07:00', 'croatia') + 
                 createGame('germany', '13:00', 'japan') + 
                 createGame('spain', '13:00', 'costa rica') +
-                createGame('belgium', '13:00', 'canada')) 
-            
+                createGame('belgium', '13:00', 'canada')) + 
+            createCard("24/11", "quinta",
+                createGame('switzerland', '07:00', 'cameroon') +
+                createGame('uruguay', '10:00', 'south korea') +
+                createGame('portugal', '13:00', 'ghana') + 
+                createGame('brazil', '16:00', 'serbia')) +
+            createCard("25/11", "sexta",
+                createGame('wales', '07:00', 'iran') +
+                createGame('qatar', '10:00', 'senegal') +
+                createGame('netherlands', '13:00', 'ecuador') +
+                createGame('england', '16:00', 'united states'))
+ 
